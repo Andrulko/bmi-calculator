@@ -1,1 +1,1 @@
-Calculateur d’IMC (Indice de Masse Corporelle) basique, avec une interface Material Design
+Simple BMI (Body mass index) calculator with Material Design
